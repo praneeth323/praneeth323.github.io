@@ -35,7 +35,7 @@ There are usually Veg and Meat toppings.
 
 * Jalapenos   Ppepperoni
 
-![](non veg.jpg)
+![](non_veg.jpg)
 
 Meat Toppings
 
