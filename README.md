@@ -1,5 +1,5 @@
 # PizzA
-Pizza is a Italian dish. There are different types and styles of pizza.
+### Pizza is a Italian dish. There are different types and styles of pizza.
 - Brooklyn style
 - Handmade pan pizza
 - Hand tossed 
@@ -14,5 +14,14 @@ And there are also different sauces which makes pizza delecious
 2. Garlic parmesan
 3. Barbeque sauce 
 
+Toppings in pizza
+There are usually Veg and Meat toppings. 
+
+Onions, spinach, mushrooms, bell peppers all these come under veg toppings.
+Chicken, ham, pepperoni, beacon are meat toppings.
+
 ![](NYPizzaPie.jpg)
 
+
+Referrence 
+Dominos pizza :![]
