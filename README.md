@@ -24,6 +24,8 @@ They are usually Veg and Meat toppings.
 
 ![](NYPizzaPie.jpg)
 
+@copyright delish
+
  Veg Toppings                       
 
 * Onions                              
@@ -34,9 +36,11 @@ They are usually Veg and Meat toppings.
 
 * Bell peppers                        
 
-* Jalapenos   Ppepperoni
+* Jalapenos
 
 ![](non_veg.jpg)
+
+@copyright delish
 
 Meat Toppings
 
@@ -47,6 +51,8 @@ Meat Toppings
 * Ham
 
 * Turkey
+
+* pepperoni
 
 
 Reference 
