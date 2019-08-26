@@ -12,7 +12,7 @@ There are different types and styles of pizza.
 
 @copyright Delish
 
-And there are also different sauces which makes pizza delecious
+And there are also different sauces which makes pizza delicious
 1. Alfredo sauce
 2. Garlic parmesan
 3. Barbeque sauce 
