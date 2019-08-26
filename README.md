@@ -8,6 +8,7 @@
 
 
 ![](pizza.jpg)
+@copyright https://www.delish.com/cooking/recipe-ideas/a25847047/bbq-chicken-pizza-recipe/c
 
 And there are also different sauces which makes pizza delecious
 1. Alfredo sauce
@@ -24,4 +25,6 @@ Chicken, ham, pepperoni, beacon are meat toppings.
 
 
 Referrence 
-Dominos pizza :![]
+Dominos pizza
+
+@copyright https://www.dominos.com/en/
