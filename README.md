@@ -20,17 +20,33 @@ And there are also different sauces which makes pizza delicious
 Toppings in pizza
 There are usually Veg and Meat toppings. 
 
- Veg Toppings                       Meat Toppings 
-Onions                              Chicken
-Spinach                             Beacon
-Mushrooms                           Ham
-Bell peppers                        Turkey
-Jalapenos                           Ppepperoni
 
 ![](NYPizzaPie.jpg)
 
+ Veg Toppings                       
 
-Referrence 
+* Onions                              
+
+* Spinach                             
+
+* Mushrooms                           
+
+* Bell peppers                        
+
+* Jalapenos   Ppepperoni
+
+Meat Toppings
+
+* Chicken
+
+* Beacon
+
+* Ham
+
+* Turkey
+
+
+Reference 
 Dominos pizza
 
 @copyright https://www.dominos.com/en/
