@@ -19,7 +19,7 @@ And there are also different sauces which makes pizza delicious
 
 ### Toppings in pizza
 
-There are usually Veg and Meat toppings. 
+They are usually Veg and Meat toppings. 
 
 
 ![](NYPizzaPie.jpg)
@@ -50,6 +50,9 @@ Meat Toppings
 
 
 Reference 
-Dominos pizza
 
 @copyright https://www.dominos.com/en/
+
+@copyright https://www.pizzahut.com/index.php?menu=pizza#/menu/pizza
+
+@copyright https://www.papajohns.com/order/menu
