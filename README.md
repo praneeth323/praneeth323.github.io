@@ -1,5 +1,5 @@
 # PizzA
-### Pizza is a Italian dish. There are different types and styles of pizza.
+## Pizza is a Italian dish. There are different types and styles of pizza.
 - Brooklyn style
 - Handmade pan pizza
 - Hand tossed 
