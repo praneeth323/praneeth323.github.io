@@ -17,7 +17,7 @@ And there are also different sauces which makes pizza delicious
 2. Garlic parmesan
 3. Barbeque sauce 
 
-### Toppings in pizza
+### Toppings in pizza 
 
 They are usually Veg and Meat toppings. 
 
