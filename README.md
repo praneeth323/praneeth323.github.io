@@ -51,8 +51,8 @@ Meat Toppings
 
 Reference 
 
-@copyright https://www.dominos.com/en/
+[Dominos](https://www.dominos.com/en/)
 
-@copyright https://www.pizzahut.com/index.php?menu=pizza#/menu/pizza
+[Pizza hut](https://www.pizzahut.com/index.php?menu=pizza#/menu/pizza)
 
-@copyright https://www.papajohns.com/order/menu
+[papajohns](https://www.papajohns.com/order/menu)
